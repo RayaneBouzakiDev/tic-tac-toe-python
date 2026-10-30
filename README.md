@@ -2,6 +2,8 @@
 
 Jeu de morpion développé en Python avec CustomTkinter, proposant une interface graphique personnalisée et deux modes de jeu : joueur contre joueur et joueur contre IA.
 
+![Capture d'écran du jeu Tic-Tac-Toe](assets/tic-tac-toe.png)
+
 ## Mon travail sur le projet
 
 Je me suis principalement concentré sur le développement du backend et de l'intelligence artificielle, tout en participant à la conception de l'interface graphique.
@@ -54,4 +56,4 @@ Je me suis principalement concentré sur le développement du backend et de l'in
 
 **Rayane BOUZAKI**
 
-Étudiant en première année du cycle ingénieur informatique à ESIEE-IT (ING 3).
+Étudiant en première année du cycle ingénieur informatique à ESIEE-IT (ING+3).
